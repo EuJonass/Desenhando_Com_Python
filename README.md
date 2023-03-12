@@ -14,15 +14,15 @@
 
 ## Desenhando um Gatinho
 
-# Desenhando uma Espiral Quadrada
+## Desenhando uma Espiral Quadrada
 
-# Desenhando uma Estrela
+## Desenhando uma Estrela
 
-# Desenhando uma Rosa
+## Desenhando uma Rosa
 
-# Desenhando o Pikachu
+## Desenhando o Pikachu
 
-# Desenhando uma espiral em Hélice
+## Desenhando uma espiral em Hélice
 
-# Escrevendo o Nome com a Bibliotéca Turtle
+## Escrevendo o Nome com a Bibliotéca Turtle
 

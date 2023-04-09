@@ -56,6 +56,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/111382334/230792295-1bc8e5c5-1095-4065-be94-577a98c88901.png" width="650px"/>
 </div>
+
+## Desenhando a Logo do TikTok
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/111382334/230800206-c6f17d21-74b7-4afa-987a-f735675a275a.png" width="650px"/>
+</div>
+
   
 ## Desenhando o Pikachu
 <div align="center">

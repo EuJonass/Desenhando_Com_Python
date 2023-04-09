@@ -51,6 +51,11 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/111382334/224559317-f39791c7-6fc3-4723-9c4e-dbe0d6adf51e.png" width="650px"/>
 </div>
+
+## Desenhando a Logo do Google Chrome
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/111382334/230792295-1bc8e5c5-1095-4065-be94-577a98c88901.png" width="650px"/>
+</div>
   
 ## Desenhando o Pikachu
 <div align="center">

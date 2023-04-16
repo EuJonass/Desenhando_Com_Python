@@ -37,6 +37,12 @@
   <img src="https://user-images.githubusercontent.com/111382334/224559310-6254dac0-db39-46ff-9af1-84b214b623c3.png" width="650px"/>
 </div>
 
+## Desenhando um Livro
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/111382334/232340213-e1d1c7dd-d40f-42b3-ac46-21cb7ed3cc25.png" width="650px"/>
+</div>
+
+
 ## Desenhando uma Espiral Quadrada
 <div align="center">
   <img src="https://user-images.githubusercontent.com/111382334/224560415-f776da77-c874-43b8-8b5f-8b5acd86b378.png" width="650px"/>
